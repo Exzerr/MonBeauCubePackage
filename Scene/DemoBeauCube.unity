@@ -352,7 +352,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2808844324961909153, guid: 2d806227b789fa246babb33b8899ae0d, type: 3}
       propertyPath: m_Name
-      value: AllanMonBeauCube
+      value: MonBeauCube
       objectReference: {fileID: 0}
     - target: {fileID: 3764772107887131494, guid: 2d806227b789fa246babb33b8899ae0d, type: 3}
       propertyPath: m_Materials.Array.data[0]
